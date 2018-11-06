@@ -1,0 +1,4 @@
+INSERT INTO dept(dname,db_source) VALUES('',DATABASE());
+
+localhost:8001/dept/list
+localhost:80/consumer/dept/list
